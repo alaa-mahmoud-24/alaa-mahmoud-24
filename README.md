@@ -22,6 +22,24 @@ Here are some of the tools and technologies I work with:
 ### **Currently Learning**
 * **Flutter:** I'm expanding my skills into cross-platform mobile development to build beautiful and performant mobile apps.
 
+---
+
+## 🚀 Projects
+
+Here's a glimpse of some of my projects. You can find more in my repositories.
+
+### **[Project Name 1]**
+* **Description:** A brief, 1-2 sentence summary of the project.
+* **Technologies Used:** `Angular`, `TypeScript`, `Figma`, etc.
+* **Highlights:** Mention a key feature or design challenge you solved.
+
+### **[Project Name 2]**
+* **Description:** A brief, 1-2 sentence summary of the project.
+* **Technologies Used:** `HTML`, `CSS`, `JavaScript`, etc.
+* **Highlights:** What did you learn or accomplish with this project?
+
+---
+
 ## 🤝 Let's Connect!
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
