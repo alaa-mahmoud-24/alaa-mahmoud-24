@@ -1,56 +1,22 @@
-# 🎨 Hi, I'm Alaa Mahmoud! 👋
+# 👋 Hi, I'm Alaa Mahmoud  
 
-I'm a passionate **UI/UX Designer** and **Front-End Developer** with a focus on creating intuitive, user-friendly, and visually appealing digital experiences. My work is a blend of creative design and solid technical implementation.
+## 💡 About Me
+- 🎨 UI/UX Designer & Frontend Developer (Angular)  
+- 📱 Currently learning **Flutter** to expand into mobile apps  
+- 🌱 Love creating beautiful and user-friendly interfaces  
 
----
+## 🛠 Tech Stack
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 
-## 🛠️ Skills & Technologies
+## 🚀 Featured Projects
+- [GPS Project](https://github.com/username/gps-project) – Web app for location search  
+- [Just a Girl (Game)](https://github.com/username/just-a-girl) – Fun card game for all ages  
 
-Here are some of the tools and technologies I work with:
-
-### **UI/UX Design**
-* **Figma:** My primary tool for wireframing, prototyping, and creating high-fidelity designs.
-* **Adobe XD / Sketch:** Familiar with these tools for design and prototyping.
-* **User Research & Prototyping:** I use these skills to ensure my designs are user-centered.
-
-### **Front-End Development**
-* **Angular:** My main framework for building dynamic and scalable single-page applications.
-* **TypeScript / JavaScript (ES6+):** The core languages for my front-end work.
-* **HTML5 / CSS3 (Sass/SCSS):** Strong foundation in structuring and styling web applications.
-* **Responsive Web Design:** I ensure my projects look great on any device.
-
-### **Currently Learning**
-* **Flutter:** I'm expanding my skills into cross-platform mobile development to build beautiful and performant mobile apps.
-
----
-
-## 🚀 Projects
-
-Here's a glimpse of some of my projects. You can find more in my repositories.
-
-### **[Project Name 1]**
-* **Description:** A brief, 1-2 sentence summary of the project.
-* **Technologies Used:** `Angular`, `TypeScript`, `Figma`, etc.
-* **Highlights:** Mention a key feature or design challenge you solved.
-
-### **[Project Name 2]**
-* **Description:** A brief, 1-2 sentence summary of the project.
-* **Technologies Used:** `HTML`, `CSS`, `JavaScript`, etc.
-* **Highlights:** What did you learn or accomplish with this project?
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to new opportunities and collaborations. Feel free to reach out to me!
-
-* **[Your Website/Portfolio Link]**
-* **[Your LinkedIn Profile Link]**
-* **[Your Twitter/X Handle]** (Optional)
-* **[Your Email Address]**
-
----
-
-<p align="center">
-  <sub>Made with ❤️ by Alaa Mahmoud</sub>
-</p>
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/alaa-mahmoud)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
