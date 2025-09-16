@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaaMahmoud&show_icons=true&theme=dark)
 # 👋 Hi, I'm Alaa Mahmoud  
 
 ## 💡 About Me
@@ -14,10 +13,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 
-## 🚀 Featured Projects
-- [GPS Project](https://github.com/username/gps-project) – Web app for location search  
-- [Just a Girl (Game)](https://github.com/username/just-a-girl) – Fun card game for all ages  
-
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/alaa-mahmoud)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/alaa-mahmoud](https://www.linkedin.com/in/alaa-mahmoud-7860a8216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:alaaalaa7050@gmail.com)
