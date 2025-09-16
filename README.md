@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=Alaa%20Mahmoud&fontSize=40&animation=twinkle&fontAlignY=40)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaaMahmoud&show_icons=true&theme=dark)
 # 👋 Hi, I'm Alaa Mahmoud  
 
 ## 💡 About Me
